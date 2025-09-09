@@ -1,6 +1,6 @@
 ---
-title: "GitHub"
+title: "EurIPS"
 weight: 99
 header_menu: true
-external: https://github.com/zjedi/hugo-scroll
+external: https://eurips.cc/
 ---
