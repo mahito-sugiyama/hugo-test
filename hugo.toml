@@ -9,7 +9,7 @@ defaultContentLanguage = "en"
 theme = "hugo-scroll"
 
 # The browser tab name
-title = "TACL-ML"
+title = "TITLE"
 
 # In order to add version information in the page's footer set to true.
 # enableGitInfo = true
