@@ -9,7 +9,7 @@ defaultContentLanguage = "en"
 theme = "hugo-scroll"
 
 # The browser tab name
-title = "TestPage"
+title = "TACL-ML"
 
 # In order to add version information in the page's footer set to true.
 # enableGitInfo = true
@@ -108,10 +108,5 @@ enableEmoji = true
    [languages.en]
      weight = 10
      languageName = "English"
-     contentDir = "content/en"
+     contentDir = "content"
  
-#   [languages.de]
-#     title = "Erika Musterfrau - Ernährungshilfe & Kochberatung"
-#     weight = 20
-#     contentDir = "content/de"
-#     languageName = "Deutsch"
